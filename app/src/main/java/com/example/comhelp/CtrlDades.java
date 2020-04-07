@@ -3,7 +3,7 @@ package com.example.comhelp;
 public class CtrlDades {
 
      String[] TrGet10supermercats(){
-         String[] s = {"alo", "alo", "alo", "alo", "alo", "alo", "alo", "alo", "alo", "alo"};
+         String[] s = {"alo", "alo", "alo", "ala", "alo", "alo", "alo", "alo", "alo", "alo"};
          return s;
     }
 
